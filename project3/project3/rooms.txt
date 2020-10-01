@@ -1,0 +1,6 @@
+Start_Room, locked, on, Basement_Hallway
+Basement_Hallway, locked, on, Start_Room, Basement_Bedroom, Experiment_Room, Basement_Bathroom, Game_Room, Stairs
+Basement_Bedroom, locked, on, Basement_Hallway
+Basement_Bathroom, locked, on, Basement_Hallway
+Game_Room, locked, on, Basement_Hallway
+Experiment_Room, locked, on, Basement_Hallway
